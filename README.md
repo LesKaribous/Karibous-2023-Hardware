@@ -1,5 +1,7 @@
-# Karibous-2023-Hardware
+# Karibous 2023 - Hardware
 Hardware du robot des Karibous pour la Coupe de Robotique (Eurobot) 2023.
+
+Les Karibous, c'est une équipe de robotique fondée en 2011 avec la ferme intention de montrer que la robotique peut être simple et fun à réaliser. Depuis cette époque, elle participe chaque année à La Coupe de France de Robotique organisée par l'association Planète Science ainsi qu'à la MakerFight !
 
 Chaque semaine, suivez l'évolution de nos robots en live twitch sur [Barbatronic Live](https://www.twitch.tv/barbatroniclive) ! 
 - Plus d'informations sur la Coupe de France de robotique : [coupederobotique.fr](https://www.coupederobotique.fr/)
