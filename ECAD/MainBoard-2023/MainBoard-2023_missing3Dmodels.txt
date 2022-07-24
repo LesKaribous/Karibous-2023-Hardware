@@ -1,0 +1,17 @@
+### Missing 3D models - created on 2022-07-24 22:50
+### Printed by checking_3D_models plugin
+Board file: C:/Users/adrie/Documents/GitHub/Karibous-2023-Hardware/ECAD/MainBoard-2023/MainBoard-2023.kicad_pcb
+3D missing models written to:
+C:\Users\adrie\Documents\GitHub\Karibous-2023-Hardware\ECAD\MainBoard-2023\MainBoard-2023_missing3Dmodels.txt
+-------
+('J27', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Connector_Molex.3dshapes\\Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical.wrl')
+('J7', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Connector_AMASS.3dshapes\\AMASS_XT30U-F_1x02_P5.0mm_Vertical.wrl')
+('J20', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Connector_Molex.3dshapes\\Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical.wrl')
+('J17', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Connector_AMASS.3dshapes\\AMASS_XT30U-F_1x02_P5.0mm_Vertical.wrl')
+('PS1', 'C:\\Users\\adrie\\Documents\\GitHub\\Karibous-2023-Hardware\\ECAD\\MainBoard-2023\\D36V50F5.stp')
+('J21', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Connector_Molex.3dshapes\\Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical.wrl')
+('J26', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Connector_Molex.3dshapes\\Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical.wrl')
+('J16', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Connector_AMASS.3dshapes\\AMASS_XT30U-F_1x02_P5.0mm_Vertical.wrl')
+-------
+NUM of 3D missing models:8
+checked extensions ['.stp', '.step', '.stpZ']

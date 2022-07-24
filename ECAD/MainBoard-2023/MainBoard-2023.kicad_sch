@@ -5452,7 +5452,7 @@
     (uuid 6fdadf38-3847-4a25-ae08-6e794881fa86)
     (property "Reference" "J17" (id 0) (at 223.52 163.83 0))
     (property "Value" "XT30" (id 1) (at 227.33 160.02 0))
-    (property "Footprint" "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical" (id 2) (at 223.52 161.29 0)
+    (property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical" (id 2) (at 223.52 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 223.52 161.29 0)
@@ -5556,9 +5556,9 @@
   )
 
   (symbol (lib_id "Device:Fuse_Small") (at 176.53 149.86 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7cfcbb01-03fd-4939-8bba-86c0cacd312b)
-    (property "Reference" "F2" (id 0) (at 176.53 148.0524 0))
+    (property "Reference" "F1" (id 0) (at 176.53 152.4 0))
     (property "Value" "Fuse_Small" (id 1) (at 174.7382 151.7401 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6757,7 +6757,7 @@
     (uuid d607eb9a-23b4-4372-bc45-8aa1d6977fee)
     (property "Reference" "J7" (id 0) (at 223.52 146.05 0))
     (property "Value" "XT30" (id 1) (at 227.33 142.24 0))
-    (property "Footprint" "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical" (id 2) (at 223.52 143.51 0)
+    (property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical" (id 2) (at 223.52 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 223.52 143.51 0)
@@ -7125,7 +7125,7 @@
     (uuid f3434dd5-88d3-415d-862b-b58bbf14c1e6)
     (property "Reference" "J16" (id 0) (at 223.52 154.94 0))
     (property "Value" "XT30" (id 1) (at 227.33 151.13 0))
-    (property "Footprint" "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical" (id 2) (at 223.52 152.4 0)
+    (property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical" (id 2) (at 223.52 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 223.52 152.4 0)
@@ -7488,7 +7488,7 @@
       (reference "D10") (unit 1) (value "D_Dual_CommonCathode_AKA_Parallel") (footprint "byv34-400:BYV34-400")
     )
     (path "/7cfcbb01-03fd-4939-8bba-86c0cacd312b"
-      (reference "F2") (unit 1) (value "Fuse_Small") (footprint "Fuse:Fuseholder_Blade_Mini_Keystone_3568")
+      (reference "F1") (unit 1) (value "Fuse_Small") (footprint "Fuse:Fuseholder_Blade_Mini_Keystone_3568")
     )
     (path "/2ea04188-eb9b-4f84-b43b-9150de08bfa6"
       (reference "H1") (unit 1) (value "M3") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
@@ -7521,7 +7521,7 @@
       (reference "J6") (unit 1) (value "ConStep1") (footprint "Connector_Molex:Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical")
     )
     (path "/d607eb9a-23b4-4372-bc45-8aa1d6977fee"
-      (reference "J7") (unit 1) (value "XT30") (footprint "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical")
+      (reference "J7") (unit 1) (value "XT30") (footprint "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical")
     )
     (path "/48712099-d103-40ba-ac7d-d49154a7a9f3"
       (reference "J8") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
@@ -7548,10 +7548,10 @@
       (reference "J15") (unit 1) (value "Conn_01x03") (footprint "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical")
     )
     (path "/f3434dd5-88d3-415d-862b-b58bbf14c1e6"
-      (reference "J16") (unit 1) (value "XT30") (footprint "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical")
+      (reference "J16") (unit 1) (value "XT30") (footprint "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical")
     )
     (path "/6fdadf38-3847-4a25-ae08-6e794881fa86"
-      (reference "J17") (unit 1) (value "XT30") (footprint "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical")
+      (reference "J17") (unit 1) (value "XT30") (footprint "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical")
     )
     (path "/8d2a78ab-0275-4a44-8c59-18e3f5a0f07e"
       (reference "J20") (unit 1) (value "BAU") (footprint "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical")
