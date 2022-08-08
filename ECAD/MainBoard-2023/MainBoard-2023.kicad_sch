@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Main Board 2023")
+    (date "2022-08-08")
+    (rev "1")
+    (company "Les Karibous")
+  )
+
   (lib_symbols
     (symbol "CB1-P-24V:CB1-P-24V" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "K" (id 0) (at 0 7.62 0)
