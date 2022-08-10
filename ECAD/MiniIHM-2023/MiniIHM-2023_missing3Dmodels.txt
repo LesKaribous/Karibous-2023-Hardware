@@ -1,9 +1,0 @@
-### Missing 3D models - created on 2022-08-08 02:09
-### Printed by checking_3D_models plugin
-Board file: C:\Users\adrie\Documents\GitHub\Karibous-2023-Hardware\ECAD\MiniIHM-2023\MiniIHM-2023.kicad_pcb
-3D missing models written to:
-C:\Users\adrie\Documents\GitHub\Karibous-2023-Hardware\ECAD\MiniIHM-2023\MiniIHM-2023_missing3Dmodels.txt
--------
--------
-NUM of 3D missing models:0
-checked extensions ['.stp', '.step', '.stpZ']
