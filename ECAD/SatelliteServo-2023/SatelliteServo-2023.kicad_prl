@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -72,7 +72,7 @@
   "project": {
     "files": [
       {
-        "name": "SatelliteServo-2023.kicad_pcb",
+        "name": "SatelliteServo-2023.kicad_sch",
         "open": false,
         "window": {
           "display": 1,
@@ -84,7 +84,7 @@
         }
       },
       {
-        "name": "SatelliteServo-2023.kicad_sch",
+        "name": "SatelliteServo-2023.kicad_pcb",
         "open": false,
         "window": {
           "display": 1,
