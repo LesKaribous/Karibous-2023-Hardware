@@ -395,8 +395,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "SatellitePump-2023.step",
+      "vrml": "SatellitePump-2023.wrl"
     },
     "page_layout_descr_file": ""
   },
