@@ -5,7 +5,7 @@ Les Karibous, c'est une équipe de robotique fondée en 2011 avec la ferme inten
 
 Chaque semaine, suivez l'évolution de nos robots en live twitch sur [Barbatronic Live](https://www.twitch.tv/barbatroniclive) ! 
 - Plus d'informations sur la Coupe de France de robotique : [coupederobotique.fr](https://www.coupederobotique.fr/)
-- Plus d'informations sur la Makerfight : [MakerFight](https://www.makerfight.fr/)
+- Plus d'informations sur la Makerfight : [makerfight.fr](https://www.makerfight.fr/)
 - Plus d'informations sur notre équipe : [Les Karibous](http://www.leskaribous.fr)
 
 Pour la réalisation de nos robots, nous utilisons les logiciels suivants :
