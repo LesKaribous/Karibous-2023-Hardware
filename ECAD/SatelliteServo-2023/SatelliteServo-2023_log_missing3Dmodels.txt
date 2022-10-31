@@ -1,0 +1,1 @@
+[('J2', 'C:\\Users\\adrie\\Documents\\GitHub\\Karibous-2023-Hardware\\ECAD\\SatelliteServo-2023\\Packages3D\\Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical.wrl')]
