@@ -2,7 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -10,7 +10,7 @@
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6600000262260437
+      "zones": 0.6
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -59,9 +59,10 @@
       32,
       33,
       34,
-      35
+      35,
+      36
     ],
-    "visible_layers": "ff4103f_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
@@ -69,23 +70,6 @@
     "version": 3
   },
   "project": {
-<<<<<<< HEAD
-    "files": [
-      {
-        "name": "MainBoard-2023.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 2,
-          "maximized": true,
-          "pos_x": 1912,
-          "pos_y": -412,
-          "size_x": 1096,
-          "size_y": 1896
-        }
-      }
-    ]
-=======
     "files": []
->>>>>>> 40d9cb26db8e3b1d765192a7c70b3f461859faa9
   }
 }
