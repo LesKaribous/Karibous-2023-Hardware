@@ -69,6 +69,7 @@
     "version": 3
   },
   "project": {
+<<<<<<< HEAD
     "files": [
       {
         "name": "MainBoard-2023.kicad_pcb",
@@ -83,5 +84,8 @@
         }
       }
     ]
+=======
+    "files": []
+>>>>>>> 40d9cb26db8e3b1d765192a7c70b3f461859faa9
   }
 }
