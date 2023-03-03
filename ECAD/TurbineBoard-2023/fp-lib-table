@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LR7843")(type "KiCad")(uri "/home/adrien/Documents/GitHub/Karibous-2023-Hardware/ECAD/Lib-2023/LR7843-BOARD/LR7843.pretty")(options "")(descr ""))
+)
