@@ -74,12 +74,12 @@
         "name": "MainBoard-2023.kicad_pcb",
         "open": false,
         "window": {
-          "display": 1,
+          "display": 2,
           "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1056
+          "pos_x": 1912,
+          "pos_y": -412,
+          "size_x": 1096,
+          "size_y": 1896
         }
       }
     ]
