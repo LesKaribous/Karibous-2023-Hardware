@@ -1735,7 +1735,7 @@
     (property "Value" "1200uF 50V" (at 170.18 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (at 168.91 38.1 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" (at 168.91 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 168.91 38.1 0)
