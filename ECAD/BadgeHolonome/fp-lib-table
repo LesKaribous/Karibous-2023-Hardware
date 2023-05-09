@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Badges")(type "KiCad")(uri "${KIPRJMOD}/Badges.pretty")(options "")(descr ""))
+)
