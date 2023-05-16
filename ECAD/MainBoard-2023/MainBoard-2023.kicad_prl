@@ -75,7 +75,7 @@
     "files": [
       {
         "name": "MainBoard-2023.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
           "display": 1,
           "maximized": true,
@@ -89,9 +89,9 @@
         "name": "MainBoard-2023.kicad_pcb",
         "open": true,
         "window": {
-          "display": 0,
+          "display": 1,
           "maximized": true,
-          "pos_x": -1928,
+          "pos_x": -8,
           "pos_y": -8,
           "size_x": 1936,
           "size_y": 1056
